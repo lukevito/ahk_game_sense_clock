@@ -1,6 +1,7 @@
 #SingleInstance, Force
 #NoEnv 
 #KeyHistory 0
+
 SetWorkingDir %A_ScriptDir%
 SendMode Input
 
