@@ -1,4 +1,5 @@
 # Simple clock 
+for Steelseries GameSense API using AutoHotkey automation script
 
 After enabling script
 
@@ -18,10 +19,11 @@ Thx to:
 > 
 > https://github.com/cocobelgica/AutoHotkey-JSON
 
-
-
-
 for showing how to work with json files under AutoHotkey. *JSON.ahk* contains a version of his work. 
+
+TODO:
+* make it dynamic with heartbeat if necessary
+
 
 
 
